@@ -12,7 +12,7 @@ const LowerMain = ()=>{
                     </div>
 
                     <div className="wrapper-auth-content" id="auth-content-wrapper">    
-                        <p className="italic-tag margin-off">Well done, good and faithful servant</p>
+                        {/* <p className="italic-tag margin-off">Well done, good and faithful servant</p> */}
                         <h1>    
                             The Author
                         </h1>
